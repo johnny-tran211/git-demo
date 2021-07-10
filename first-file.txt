@@ -7,3 +7,5 @@ fixbug done
 get alias
 
 change in master branch
+
+add new feature
