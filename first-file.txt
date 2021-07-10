@@ -3,3 +3,5 @@ Add new file
 new feature
 
 fixbug done
+
+get alias
