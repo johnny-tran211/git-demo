@@ -2,4 +2,4 @@ Add new file
 
 new feature
 
-fixbug
+fixbug done
